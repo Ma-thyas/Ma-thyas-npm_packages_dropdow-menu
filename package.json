@@ -9,6 +9,9 @@
   "keywords": [
     "dropdown"
   ],
-  "author": "Mathyas Autin",
-  "license": "ISC"
+  "author": "Mathyas Autin <mathyasautin@yahoo.com>",
+  "license": "ISC",
+  "publishConfig": {
+    "Ma-thyas:registry": "https://npm.pkg.github.com"
+  }
 }
