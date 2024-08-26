@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/Ma-thyas/npm_packages_dropdow-menu.git",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@ma-thyas:registry": "https://npm.pkg.github.com"
   },
   "author": "Mathyas Autin <mathyasautin@yahoo.com>",
   "license": "ISC"
