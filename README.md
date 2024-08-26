@@ -9,3 +9,7 @@ You should hard-code the menu items into your HTML but hide/reveal them using Ja
 Make sure the JavaScript code is reusable! You should be able to create multiple drop-downs on a page using HTML and reuse the JavaScript logic to hide/reveal them.
 
 If you bundle your code into a module you can publish your package to npm, and then install and use it anytime you like! 
+
+## Installation
+
+npm install dropdown-menu-package

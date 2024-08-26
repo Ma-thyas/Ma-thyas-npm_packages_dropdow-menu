@@ -9,7 +9,7 @@
   "keywords": [
     "dropdown"
   ],
-  "repository": "https://github.com/Ma-thyas/Ma-thyas-npm_packages_dropdow-menu.git",
+  "repository": "https://github.com/Ma-thyas/npm_packages_dropdow-menu.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
