@@ -9,9 +9,10 @@
   "keywords": [
     "dropdown"
   ],
-  "author": "Mathyas Autin <mathyasautin@yahoo.com>",
-  "license": "ISC",
+  "repository": "https://github.com/Ma-thyas/Ma-thyas-npm_packages_dropdow-menu.git",
   "publishConfig": {
-    "Ma-thyas:registry": "https://npm.pkg.github.com"
-  }
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": "Mathyas Autin <mathyasautin@yahoo.com>",
+  "license": "ISC"
 }
